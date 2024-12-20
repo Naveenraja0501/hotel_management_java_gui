@@ -46,10 +46,12 @@ public class MainGUI extends javax.swing.JFrame {
         setTitle("The Champ Hotel (Login)");
         setResizable(false);
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
+    // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
 
         jPanel1.setBackground(new java.awt.Color(0, 0, 102));
 
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Champ/logo_60.png"))); // NOI18N
+    // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
 
         jLabel3.setBackground(new java.awt.Color(255, 255, 255));
         jLabel3.setFont(new java.awt.Font("Californian FB", 1, 36)); // NOI18N
